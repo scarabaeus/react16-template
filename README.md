@@ -1,3 +1,8 @@
-## Streamline-UI
+# react16-template
 
-This package contains the micro frontend that houses the EBS Streamline functionality, including the BPMN modeling component.
+```
+"react": "^16.13.0",
+"react-dom": "^16.13.0",
+"react-scripts": "3.4.0"
+```
+
